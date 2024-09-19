@@ -5,7 +5,7 @@
 
 ### 🖊 My Recent Blog Posts
 <!--START_SECTION:feed-->
-* [Missing rows in the Accounting Period table in SuiteAnalytics Connect](https://thedaxshepherd.net/2023/06/29/Netsuite-AccountingPeriods-ETL)
+* 
 
 <!--END_SECTION:feed-->
 
