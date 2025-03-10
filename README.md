@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on my blog The Dax Shepherd
 - 🌱 I’m currently learning Calculation Groups for Power BI
 
-### 🖊 My Recent Blog Posts
+### 🖊 My Recent Presentations
 <!--START_SECTION:feed-->
-* 
+* SQL Saturday Atlanta - AI & BI
 
 <!--END_SECTION:feed-->
 
