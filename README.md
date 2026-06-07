@@ -1,20 +1,27 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my blog The Dax Shepherd
-- 🌱 I’m currently learning Calculation Groups for Power BI
+I'm a Data Engineer focused on **Microsoft Fabric** and **Power BI**. I write about data tools and analytics at [The DAX Shepherd](https://www.thedaxshepherd.com) and speak regularly at community conferences.
 
-### 🖊 My Recent Presentations
-<!--START_SECTION:feed-->
-* SQL Saturday Atlanta - AI & BI
+- 🔭 Currently working with **Microsoft Fabric** — Lakehouses, Spark, Pipelines, and Semantic Models
+- 🌱 Currently exploring **Semantic Link Labs** for Python-based Fabric development
+- 🎤 Active conference speaker — SQL Saturday, Day of Data, FabCon, Scenic City Summit, and more
+- 📝 Blogging at [thedaxshepherd.com](https://www.thedaxshepherd.com)
 
-<!--END_SECTION:feed-->
+### 🔗 Find Me
 
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jason--r--sql--jar-blue?logo=linkedin)](https://www.linkedin.com/in/jason-r-sql-jar/)
+[![Sessionize](https://img.shields.io/badge/Sessionize-jason--romans-green?logo=sessionize)](https://sessionize.com/jason-romans/)
+[![Blog](https://img.shields.io/badge/Blog-thedaxshepherd.com-orange)](https://www.thedaxshepherd.com)
 
--->
+### 🖊 Recent Presentations
+
+| Date | Event | Session |
+|------|-------|---------|
+| Jun 2026 | Scenic City Summit 2026 | The Data Professional's Power Toolkit |
+| May 2026 | Day of Data Jacksonville 2026 | Data on Fire: A Hands-On Intro to Spark in Fabric |
+| Mar 2026 | FabCon US 2026 | Semantic Link Labs: The Data Detective's Toolkit |
+| Mar 2026 | SQL Saturday Atlanta 2026 | Unlocking the Power of TMDL |
+| Mar 2026 | DataTune 2026 | The Data Professional's Power Toolkit |
+| Feb 2026 | Power BI & Fabric Summit 2026 | Semantic Link Labs: A Link to the Future |
+
+➡️ [Full list of presentations and demo files](https://github.com/thedaxshepherd/Presentations)
