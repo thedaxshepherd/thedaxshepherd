@@ -17,11 +17,11 @@ I'm a Data Engineer focused on **Microsoft Fabric** and **Power BI**. I write ab
 
 | Date | Event | Session |
 |------|-------|---------|
+| Aug 2026 | Day of Data Albany 2026 | The Data Professional's Power Toolkit |
+| Aug 2026 | Day of Data Albany 2026 | DuckDB 101: From Desktop to Notebook |
+| Jul 2026 | Day of Data Baton Rouge 2026 | Data on Fire: A Hands-On Intro to Spark in Fabric |
 | Jun 2026 | Power BI Days DC 2026 | Data on Fire: A Hands-On Intro to Spark in Fabric |
 | Jun 2026 | Power BI Days DC 2026 | DuckDB 101: From Desktop to Notebook |
 | Jun 2026 | Scenic City Summit 2026 | The Data Professional's Power Toolkit |
-| May 2026 | Day of Data Jacksonville 2026 | Data on Fire: A Hands-On Intro to Spark in Fabric |
-| Mar 2026 | FabCon US 2026 | Semantic Link Labs: The Data Detective's Toolkit |
-| Mar 2026 | SQL Saturday Atlanta 2026 | Unlocking the Power of TMDL |
 
 ➡️ [Full list of presentations and demo files](https://github.com/thedaxshepherd/Presentations)
